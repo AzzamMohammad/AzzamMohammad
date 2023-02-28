@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @AzzamMohammad
+- 🤩 I holds a baccalaureus degree in Software Engineering from Damascus University
 - 👀 I’m interested in Software Engineering & Programming
-- 😎 I have god experience with C , C++ , java , HTML , Js , Laravel , dart and Flutter
+- 🤩 I’m a Flutter developer with two years of experience
+- 😎 I have god experience with C , C++ , java , HTML , Laravel , dart and Flutter
 - 🤗 I have experiance with different Process Models and systems automation
-- 🌱 I’m currently learning Flutter 
 - 📫 How to reach me :
    email: azzammo954@gmail.com
    facebook : https://www.facebook.com/azzam.nmohammad
